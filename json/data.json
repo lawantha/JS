@@ -1,0 +1,18 @@
+{
+    "brand": "honda",
+    "model": "accord",
+    "year": 2012,
+    "engine": {
+        "type": "v-6",
+        "capacity": "3400cc"
+    },
+    "feature": [
+        "alloy wheels",
+        "sunroof",
+        "navigation"
+    ],
+    "color": "red",
+    "price": 70000,
+    "img": "car.jpg",
+    "sold": true
+}
